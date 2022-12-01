@@ -1,2 +1,3 @@
-applications      documents     drop box music
-desktopdownloads     library musicpublic
+!#/bin/bash
+application   documents   drop music
+desktop download   library    music public
