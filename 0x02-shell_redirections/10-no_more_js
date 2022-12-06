@@ -1,0 +1,4 @@
+#!/bin/bash
+find .-type d -name'*.js' -delete
+#!/bin/bash
+type . -type d -name'*.js' -delete
